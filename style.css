@@ -1,0 +1,77 @@
+body {
+    background: #fff0f5;
+    font-family: Arial, sans-serif;
+    color: #49343c;
+    line-height: 1.7;
+    padding: 30px;
+}
+
+.card {
+    max-width: 700px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 5px 25px #e8b8c8;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #d6537c;
+}
+
+.letter {
+    white-space: pre-line;
+}
+
+.meme {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    margin: 50px auto 30px;
+    border-radius: 12px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.buttons {
+    position: relative;
+    width: 300px;
+    height: 60px;
+    margin: auto;
+}
+
+button {
+    padding: 12px 25px;
+    border: 0;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#yes-btn {
+    background: #d6537c;
+    color: white;
+}
+
+#no-btn {
+    background: #eee;
+}
+
+.final {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.final p {
+    font-size: 20px;
+}
+
+.gif {
+    display: block;
+    width: 300px;
+    max-width: 100%;
+    margin: 35px auto;
+}
